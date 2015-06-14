@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					FF49B3401B2CA26F008D5A1B = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = G4AMWJ7A23;
 					};
 					FF49B3571B2CA26F008D5A1B = {
 						CreatedOnToolsVersion = 7.0;
@@ -402,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Ti Mossan/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nu.ylan.Ti-Mossan";
@@ -413,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Ti Mossan/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nu.ylan.Ti-Mossan";

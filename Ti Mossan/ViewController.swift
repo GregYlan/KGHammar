@@ -20,6 +20,17 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBOutlet var mainView: UIView!
+    let cameraUI: UIImagePickerController
+    
+    @IBAction func click(sender: UIButton)
+    {
+        if(true)
+        {
+            print("Jahjahmensan")
+        }
+        
+    }
 
 }
 

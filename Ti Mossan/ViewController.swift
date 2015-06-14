@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     @IBOutlet var mainView: UIView!
-    let cameraUI: UIImagePickerController
+
     
     @IBAction func click(sender: UIButton)
     {

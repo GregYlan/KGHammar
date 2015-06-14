@@ -1,1 +1,2 @@
 # KG-Hammar
+# KGHammar
